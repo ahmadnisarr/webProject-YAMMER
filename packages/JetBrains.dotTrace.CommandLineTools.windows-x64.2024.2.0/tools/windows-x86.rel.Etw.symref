@@ -1,0 +1,8 @@
+windows-x86\event_pipe_timeline_profiler.pdb event_pipe_timeline_profiler.pdb\5cfa534526ed4de5be04551fdd2dfd3f1\event_pipe_timeline_profiler.pd_
+windows-x86\JetBrains.Dpa.Collector.pdb      jetbrains.dpa.collector.pdb\5f4a816ab0f7472f83c5d9f71ceffc6a1\jetbrains.dpa.collector.pd_
+windows-x86\JetBrains.Dpa.CollectorApi.pdb   jetbrains.dpa.collectorapi.pdb\c2f1e981c752405193b18383d67754571\jetbrains.dpa.collectorapi.pd_
+windows-x86\JetBrains.Etw.Collector.Host.pdb jetbrains.etw.collector.host.pdb\9dd23023cf2e4b9e9e4a7b0dfc66d9031\jetbrains.etw.collector.host.pd_
+windows-x86\JetBrains.Etw.Collector.pdb      jetbrains.etw.collector.pdb\ef223b64b98645989b524121884ae5501\jetbrains.etw.collector.pd_
+windows-x86\JetBrains.Process.Elevator.pdb   jetbrains.process.elevator.pdb\9ec5614700384af5989aecfef1b5417e1\jetbrains.process.elevator.pd_
+windows-x86\mono-profiler-jb.pdb             mono-profiler-jb.pdb\61a8e281f22548d9944d520bfd13d6231\mono-profiler-jb.pd_
+windows-x86\xperf.pdb                        xperf.pdb\a0a35cc1c2c04c7588dc9c820318cb021\xperf.pd_

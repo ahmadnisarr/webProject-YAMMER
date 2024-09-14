@@ -1,0 +1,16 @@
+windows-x64.dbg\event_pipe_timeline_profiler.dll event_pipe_timeline_profiler.dll\6691D683db6000\event_pipe_timeline_profiler.dl_
+windows-x64.dbg\event_pipe_timeline_profiler.pdb event_pipe_timeline_profiler.pdb\a4fcad741edc4af49adfaa8dda5290f01\event_pipe_timeline_profiler.pd_
+windows-x64.dbg\JetBrains.Dpa.Collector.exe      jetbrains.dpa.collector.exe\6691D64985e000\jetbrains.dpa.collector.ex_
+windows-x64.dbg\JetBrains.Dpa.Collector.pdb      jetbrains.dpa.collector.pdb\f6e27b4e55174db2b73e488a845ff2d81\jetbrains.dpa.collector.pd_
+windows-x64.dbg\JetBrains.Dpa.CollectorApi.dll   jetbrains.dpa.collectorapi.dll\6691D65A784000\jetbrains.dpa.collectorapi.dl_
+windows-x64.dbg\JetBrains.Dpa.CollectorApi.pdb   jetbrains.dpa.collectorapi.pdb\b696de4eb9b24ab79847138dd1c402181\jetbrains.dpa.collectorapi.pd_
+windows-x64.dbg\JetBrains.Etw.Collector.exe      jetbrains.etw.collector.exe\6691D5A61631000\jetbrains.etw.collector.ex_
+windows-x64.dbg\JetBrains.Etw.Collector.Host.exe jetbrains.etw.collector.host.exe\6691D4C6475000\jetbrains.etw.collector.host.ex_
+windows-x64.dbg\JetBrains.Etw.Collector.Host.pdb jetbrains.etw.collector.host.pdb\f6ddc26281f2411d8012d64b24e74d731\jetbrains.etw.collector.host.pd_
+windows-x64.dbg\JetBrains.Etw.Collector.pdb      jetbrains.etw.collector.pdb\b3b1a330541a400f93eb988c63b656251\jetbrains.etw.collector.pd_
+windows-x64.dbg\JetBrains.Process.Elevator.dll   jetbrains.process.elevator.dll\6691D59737a000\jetbrains.process.elevator.dl_
+windows-x64.dbg\JetBrains.Process.Elevator.pdb   jetbrains.process.elevator.pdb\08d4739dce974dc3801f50b79aacbabe1\jetbrains.process.elevator.pd_
+windows-x64.dbg\mono-profiler-jb.dll             mono-profiler-jb.dll\6691D615bf0000\mono-profiler-jb.dl_
+windows-x64.dbg\mono-profiler-jb.pdb             mono-profiler-jb.pdb\60d0c472c84e4f53a577a7cb00ac74e81\mono-profiler-jb.pd_
+windows-x64.dbg\xperf.exe                        xperf.exe\6691D48D12e000\xperf.ex_
+windows-x64.dbg\xperf.pdb                        xperf.pdb\9de0cfac37f249b1ab39e6d4910c875d1\xperf.pd_

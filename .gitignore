@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.sln.docstates
+
+# Build Results
+bin/
+obj/
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
